@@ -12,7 +12,7 @@ I am focusing on the Android Kotlin Developer
 ![](https://github-readme-streak-stats.herokuapp.com/?user=imanuelromuty&theme=blueberry&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=imanuelromuty&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 😂 Random Dev Meme
+### HEHEHEHEHE 
 <img src="https://github.com/ImanuelRomuty/ImanuelRomuty/blob/main/y2mate.com%20-%20ajojing%20ala%20ala%20ajojing%20meme%20memes_480p.gif" >
 
 ---
