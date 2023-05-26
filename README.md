@@ -18,7 +18,11 @@ I am focusing on the Android Kotlin Developer
 https://github.com/ImanuelRomuty/ImanuelRomuty/assets/57892459/43cc7928-92b7-49a8-bbdf-ff6b3fb20ff5
 
 
-<img src="https://github.com/ImanuelRomuty/ImanuelRomuty/blob/main/y2mate.com%20-%20ajojing%20ala%20ala%20ajojing%20meme%20memes_480p.gif" >
+https://github.com/ImanuelRomuty/ImanuelRomuty/assets/57892459/8644b7dd-121e-4b2f-b103-1324f0a1933c
+
+
+
+<!-- <img src="https://github.com/ImanuelRomuty/ImanuelRomuty/blob/main/y2mate.com%20-%20ajojing%20ala%20ala%20ajojing%20meme%20memes_480p.gif" > -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=imanuelromuty&icon=0&color=0)](https://visitcount.itsvg.in)
