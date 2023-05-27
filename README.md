@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am focusing on the Android Kotlin Developer
+I am focusing on the Android Kotlin Developer btw dont forget to check my playground https://github.com/ImanuelRomuty/Skeleton :)
 
 
 ## 🌐 Socials:
